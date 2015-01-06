@@ -1,4 +1,4 @@
-SuperCities1
+SuperCities
 ============
 This folder contains a project for an android app developed on eclipse. Most of the main code can be found deep within the source folder. I have not changed the structure of the folders in order to maintain compatability with the eclipse IDE.
 
